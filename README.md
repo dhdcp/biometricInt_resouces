@@ -16,7 +16,8 @@ Simprint used in Nepal by Possible Health with commcare, and medic mobile in the
 5. Create a XLS forms as in example provided in following [link](https://docs.google.com/spreadsheets/d/1z-hBSwQ646KnL7tz3GPt8PH0WLWL0H1RzcouqFhThgA/edit#gid=1591872452)
 
 *How it is implemented*
-![Technical Process Flow Digram of simprints][/images/simprint_1.jpg] 
+
+![Technical Process Flow Digram of simprints]["/images/simprint_1.jpg"] 
 
 source: ML Danel et. al "Biometric Fingerprint System to Enable Rapid and Accurate Identification of Beneficiaries" (2015),135-137; DOI: [10.9745/GHSP-D-15-00010]( https://doi.org/10.9745/GHSP-D-15-00010)
 
