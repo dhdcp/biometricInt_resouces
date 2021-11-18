@@ -26,3 +26,8 @@ here is no consensus on an exact definition of self-sovereign identity yet. It i
 ## What these technology enables for Public Health ? 
 
 ## How proposed system can evolved to become one ?
+
+
+*References and Resources * 
+1. W3C standard on DIDs (https://www.w3.org/TR/did-core/)[https://www.w3.org/TR/did-core/]
+2. Blockchain-enabled decentralized identity management: The case of self-sovereign identity in public transportation[https://www.sciencedirect.com/science/article/pii/S2096720921000099]
